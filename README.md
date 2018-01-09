@@ -10,3 +10,4 @@ $ cd learn-validations-starter
 $ yarn install
 $ yarn start
 ```
+# ValidationInReact_week_6
